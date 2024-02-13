@@ -4,5 +4,4 @@ python-dotenv
 pandas
 sentence-transformers
 chainlit
-openssl
 urllib3
