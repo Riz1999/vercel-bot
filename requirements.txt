@@ -4,4 +4,4 @@ python-dotenv
 pandas
 sentence-transformers
 chainlit
-urllib3
+urllib3==1.26.6
